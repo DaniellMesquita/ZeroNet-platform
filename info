@@ -1,7 +1,7 @@
 <name>ZeroNet</name>
 <id>zeronet</id>
-<version>1.0.0.6</version>
-<description>API to communicate between ZeroNet serverless sites and ZeroNet &gt; Browser</description>
+<version>1.0.1.1</version>
+<description>Main features of the decentralized web platform</description>
 <author>Daniell Mesquita</author>
 <helpurl>https://github.com/DaniellMesquita/ZeroNet-platform</helpurl>
 <category>Platforms</category>
